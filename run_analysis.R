@@ -19,8 +19,6 @@ if (!file.exists(file)) {
 
 
 # load required packages:
-install.packages("knitr")
-library(knitr)
 library(data.table)
 library(reshape2)
 
