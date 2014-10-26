@@ -49,7 +49,7 @@ The dataset includes the following files:
 * 'test/y_test.txt': Test labels.
 
 
-### The following files are available for the train and test data. Their descriptions are equivalent.
+### The following files are available for the train and test data. 
 
 * 'train/subject_train.txt': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30.
 
